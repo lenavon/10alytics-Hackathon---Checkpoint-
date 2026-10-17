@@ -105,4 +105,4 @@ Stakeholder analysis and RACI · AS-IS / TO-BE process mapping · decision-right
 
 ---
 
-*Developed with the assistance of Claude (Anthropic) for drafting, diagrams and prototype code.*
+
