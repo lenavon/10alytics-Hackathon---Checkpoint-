@@ -1,7 +1,7 @@
 # Checkpoint — Who decides what, and when?
 
-**10Alytics Students Hackathon 2026 · Focus Area 2: AI and the Future of Work**
-**Team Pod Nova (August cohort, Business Analysis):** Helena Delali Vormawor · Phionah Atukunda, MPH, CHES® · Angela Eze · Olushola Omotosho
+**🥈 2nd place of 10 finalists, 10Alytics Q3 Students Hackathon 2026 · Focus Area 2: AI and the Future of Work**
+**Team Pod Nova (August cohort, Business Analysis):** Helena Delali Vormawor (team lead) · Phionah Atukunda, MPH, CHES® · Angela Eze · Olushola Omotosho
 
 Checkpoint redesigns the discharge and follow-up workflow at **Lakeside Health Network**, a fictional network formed when two hospitals merged. The redesign lets humans and AI each own the decisions they're best placed to make.
 
